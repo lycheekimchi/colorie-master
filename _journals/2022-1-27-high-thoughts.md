@@ -1,5 +1,7 @@
 ---
 published: true
+title: high thoughts
+layout: journal
 ---
 
 I used to write a lot, you know.
