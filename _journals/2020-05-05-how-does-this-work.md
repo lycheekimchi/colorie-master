@@ -1,5 +1,5 @@
 ---
-title: How does this work?
+title: how this blog works
 layout: journal
 ---
 

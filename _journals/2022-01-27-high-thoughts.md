@@ -1,6 +1,6 @@
 ---
 published: true
-title: an absence
+title: weed and other thoughts in a gap year
 layout: journal
 ---
 

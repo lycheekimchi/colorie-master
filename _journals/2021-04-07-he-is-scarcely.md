@@ -1,3 +1,10 @@
+---
+published: true
+title: on Caravaggio's _The Musicians_ (1595)
+layout: journal
+---
+
+
 He is scarcely older than the pubescent boys of the academy, but with none of their crude jokes and wild horseplay. Instead his willowy frame cradles the instrument as a mother with her child, downy hair covering his face as he concentrates. "Hail Mary, full of grace," he recites. "The Lord is with thee." His choir, although inexperienced, obediently responds. "Blessed are thou amongst women," they mumble in unison, their uncertain voices becoming one.
 
 
