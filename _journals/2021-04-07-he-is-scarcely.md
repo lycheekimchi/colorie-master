@@ -1,6 +1,6 @@
 ---
 published: true
-title: on Caravaggio's _The Musicians_ (1595)
+title: on Caravaggio's The Musicians (1595)
 layout: journal
 ---
 
