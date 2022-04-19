@@ -4,4 +4,6 @@ title: list of interests
 layout: journal
 ---
 
-ekphrasis and landscape
+1/28: ekphrasis and landscape
+
+3/2: rothko chapel 
