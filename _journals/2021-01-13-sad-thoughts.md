@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: january sad thoughts (don't take seriously)
 layout: journal
 ---

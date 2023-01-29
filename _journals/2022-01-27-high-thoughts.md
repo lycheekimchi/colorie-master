@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: weed and other thoughts in a gap year
 layout: journal
 ---
