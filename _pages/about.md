@@ -2,12 +2,12 @@
 layout: page
 title: About
 ---
-![me](/assets/img/me4.png)
+![me](/assets/img/me5.png)
 
 <div class="biolist">
 	<center>
 <ul style="list-style-type: none;">
-	<li><strong>name</strong>: michael</li>
+	<li><strong>name</strong>:sunny</li>
 	<!-- <li><strong>info</strong>: infj, enneagram 9</li>
 	<li><strong>birthday</strong>: July 30th</li>
 	<li><strong>interests</strong>: writing, biology, Japanese</li>
