@@ -4,9 +4,20 @@ layout: default
 ---
 
 <h1>Scrapbook</h1>
-i love taking pictures :)
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/scrapbook' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
+
+---------------------------------
+
+
+{% for image in site.static_files %}
+{% if image.path contains 'assets/img/scrapbook' %}
+    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
+      <p>{{ image.text }}</p>
+    </li>
+    
+    {% endif %}
+  {% endfor %}
