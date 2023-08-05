@@ -1,4 +1,4 @@
 ---
 layout: journals
-title: Journals
+title: Poetry
 ---

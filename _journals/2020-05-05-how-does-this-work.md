@@ -1,6 +1,7 @@
 ---
 title: how this blog works
 layout: journal
+published: false
 ---
 
 Hello! You were probably expecting an in-depth tutorial about how to cobble some sort of website for yourself, which is all well and good, but let me level with you here — *I actually have no idea how I built this website*. I would honestly love to give you a tutorial but I seriously do not remember. Motivation for me comes in [bursts](https://en.wikipedia.org/wiki/Hypomania) that start at around 2am and end at 4am three days later, where I get a lot of work done (academic, recreational, or otherwise), and then look back and wonder *How in the world did I do that?* Anyway a tldr is at the bottom, if you don’t want to read my rambling.

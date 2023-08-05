@@ -1,7 +1,7 @@
 ---
 published: true
 title: period piece
-layout: journal
+layout: post
 ---
 
 i can't get your blood out of my sheets.

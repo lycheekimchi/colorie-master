@@ -1,6 +1,7 @@
 ---
 layout: journal
 title: into lately
+published: false
 ---  
 things im into lately...
 

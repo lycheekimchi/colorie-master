@@ -10,14 +10,3 @@ layout: default
     {% endif %}
 {% endfor %}
 
----------------------------------
-
-
-{% for image in site.static_files %}
-{% if image.path contains 'assets/img/scrapbook' %}
-    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
-      <p>{{ image.text }}</p>
-    </li>
-    
-    {% endif %}
-  {% endfor %}
