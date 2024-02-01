@@ -4,6 +4,10 @@ layout: default
 ---
 
 <h1>Scrapbook</h1>
+
+<i>more of my work <a href="https://www.are.na/sunny/film-0p348jfwjmu">here</a></i>
+
+
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/scrapbook' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />

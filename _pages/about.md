@@ -21,7 +21,7 @@ I graduated from Washington University in St. Louis in 2021 with a B.A. in bioch
 	<li>☀️</li><br>
 	<li><i>let's talk!</i></li>
 <li><a href="https://www.instagram.com/thedizonmustard/">instagram</a> |
-<a href="https://twitter.com/sunnypockyy">twitter</a> | sunnygdizon@gmail.com </li>
+<a href="https://twitter.com/sunnypockyy">twitter</a> | <a href="https://www.are.na/sunny/">are.na</a> | sunnygdizon@gmail.com </li>
 
 </ul> </center> </div> 
 
