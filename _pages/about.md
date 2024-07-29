@@ -15,7 +15,7 @@ title: About
 <br>
 Hi, I'm Sunny (she/her)! I'm a trans Filipina writer interested in soft words and softer love. I write about the body — the anatomical body, the transgendered body, the loving body — through poetry and memoir. <br><br>
 
-Born and raised in Illinois, I'm now based in Queens, NY and am currently a first-year MD student at Hofstra University pursuing trans healthcare.<br><br>
+Born and raised in Illinois, I'm now based in Queens, NY and am currently a second-year MD student at Hofstra University pursuing trans healthcare.<br><br>
 
 I graduated from Washington University in St. Louis in 2021 with a B.A. in biochemistry, as well as minors in creative writing and Japanese. I was named a Brooklyn Poets Fellow in 2023, and when I'm not cramming for exams, I enjoy film photography, thrifting, and riding the New York City subway.<br><br>
 	<li>☀️</li><br>
